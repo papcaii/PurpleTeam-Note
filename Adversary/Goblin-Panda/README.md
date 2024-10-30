@@ -10,6 +10,6 @@
 - The malware will then connect to the CnC server of attackers
 
 ## Reference
-[VCS](https://blog.viettelcybersecurity.com/chien-dich-cua-nhom-apt-goblin-panda-loi-dung-dai-dich-covid-19/)
-[Sebdraven](https://sebdraven.medium.com/goblin-panda-changes-the-dropper-and-reused-the-old-infrastructure-a35915f3e37a)
-[Fortinet](https://www.fortinet.com/blog/threat-research/cta-security-playbook--goblin-panda)
+[VCS](https://blog.viettelcybersecurity.com/chien-dich-cua-nhom-apt-goblin-panda-loi-dung-dai-dich-covid-19/)  
+[Sebdraven](https://sebdraven.medium.com/goblin-panda-changes-the-dropper-and-reused-the-old-infrastructure-a35915f3e37a)  
+[Fortinet](https://www.fortinet.com/blog/threat-research/cta-security-playbook--goblin-panda)  
