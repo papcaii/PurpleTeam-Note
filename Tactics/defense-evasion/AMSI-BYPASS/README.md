@@ -32,4 +32,4 @@ Then we can running powershell script without being scanned by AMSI
       ![image](https://github.com/user-attachments/assets/8db04ce3-3282-4db9-b203-b95f2d52901e)
 
     - Thanks to [Vixx's repo](https://github.com/V-i-x-x/AMSI-BYPASS/tree/main), I have done some research and successful deal with this problem
-    - Now we should run this [Invoke-ClrBypass.ps1]() before running our .NET payload, for more detail please refer [this](Payloads\Invoke-ClrBypass\README.md)
+    - Now we should run this [Invoke-ClrBypass.ps1]() before running our .NET payload, for more detail please refer [this](Payloads/Invoke-ClrBypass/README.md)
