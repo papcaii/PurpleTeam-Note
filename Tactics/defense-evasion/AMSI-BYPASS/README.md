@@ -31,5 +31,5 @@ Then we can running powershell script without being scanned by AMSI
     - I have tested this with [Invoke-BadPotato.ps1](https://github.com/Zanitas404/Invoke-BadPotato/blob/main/Invoke-BadPotato.ps1) and other .NET binary, but I always get this error
       ![image](https://github.com/user-attachments/assets/8db04ce3-3282-4db9-b203-b95f2d52901e)
 
-    - Thanks to [Vixx's repo](https://github.com/V-i-x-x/AMSI-BYPASS/tree/main), I have done some research and successful deal with this problem
-    - Now we should run this [Invoke-ClrBypass.ps1]() before running our .NET payload, for more detail please refer [this](Payloads/Invoke-ClrBypass/README.md)
+    - Thanks to [Vixx's repo](https://github.com/V-i-x-x/AMSI-BYPASS/tree/main), I have done some research and successful deal with this problem by writing a script to patch it
+    - Now we should run [Invoke-ClrBypass.ps1](Payloads/Invoke-ClrBypass/Invoke-ClrBypass.ps1) before running our .NET payload, for more detail please refer [this](Payloads/Invoke-ClrBypass/README.md)
