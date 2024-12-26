@@ -49,3 +49,15 @@ As I know most AV at the moment work by 2 main mechanism:
     - File System Monitoring: The sandbox monitors all file system activity, including file creation, deletion, modification, and access.
 
     - Registry Monitoring: The sandbox monitors changes made to the Windows Registry.
+
+### Method
+So now we know 2 main mechanisms that AV use, so the method should be splitted into 2 categories
+
+#### Static Analysis
+This I think this is not as hard as the dynamic one, and here is some ways:
+- Encode Payload
+- Steganography
+
+#### Dynamic Analysis
+- Disable AV:
+  - [NullAmsi]: A payload that disable amsi.dll (a dll that support AV in dynamic analysis)
