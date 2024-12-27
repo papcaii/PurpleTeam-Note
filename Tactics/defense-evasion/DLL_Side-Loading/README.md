@@ -8,3 +8,11 @@ This is a method that leverage DLL search mechanism of Windows when an applicati
 4. The Windows directory (e.g., C:\Windows).
 5. The current directory.
 6. Directories that are listed in the PATH environment variable.
+
+## Reference
+
+### POCs/Experience
+- **[Red, Blue, Purple Team in DLL Sideloading](https://www.cybereason.com/blog/threat-analysis-report-dll-side-loading-widely-abused)**
+
+### Known Vulnerable DLLs
+- **[Up-to-Date List of Vulnerable DLLs](https://hijacklibs.net/)**
