@@ -12,7 +12,14 @@ This is a method that leverage DLL search mechanism of Windows when an applicati
 ## Reference
 
 ### POCs/Experience
-- **[Red, Blue, Purple Team in DLL Sideloading](https://www.cybereason.com/blog/threat-analysis-report-dll-side-loading-widely-abused)**
+
+- **[Red, Blue, Purple Team in DLL Sideloading](https://www.cybereason.com/blog/threat-analysis-report-dll-side-loading-widely-abused):** Worth to read this
+
+#### Red Team
+- **[Evading EDR by DLL Sideloading in C#](https://globetech.biz/index.php/2023/05/19/evading-edr-by-dll-sideloading-in-csharp/)**
+
+#### Blue Team
 
 ### Known Vulnerable DLLs
+
 - **[Up-to-Date List of Vulnerable DLLs](https://hijacklibs.net/)**
