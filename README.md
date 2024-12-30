@@ -18,7 +18,7 @@ This repository is organized into several key areas, each focusing on a differen
 
 *   **[Adversary Emulation](./Adversary):**  This section focuses on adversary emulation, including planning, execution, and analysis of simulated attacks. It covers frameworks like MITRE ATT&CK and tools like CALDERA.
 
-*   **[MITRE Tactics](./Tactis):** This section provides useful techniques based on MITRE tactics
+*   **[MITRE Tactics](./Tactics):** This section provides useful techniques based on MITRE tactics
 
 ## Getting Started
 
