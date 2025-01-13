@@ -10,6 +10,30 @@ Cyber threat intelligence (CTI) is evidence-based knowledge that helps us to:
 There are three types of CTI:
 
 - Strategic
+  - Purpose: Provides a high-level overview of the threat landscape, focusing on trends, motivations, and the overall impact of cyber threats on the organization. It helps in understanding the "who" and "why" behind attacks.
+
+  - Audience: Executive management, board members, and other high-level decision-makers.
+
+  - Characteristics:
+
+    - Non-technical, focusing on business risks and implications.
+
+    - Broad in scope, covering long-term trends and emerging threats.
+
+    - Often presented in reports, briefings, and presentations.
+
+    - Helps in making strategic decisions about security investments, resource allocation, and risk management.
+
+  - Examples:
+
+    - Reports on the overall threat landscape for a particular industry.
+
+    - Analysis of the motivations and goals of major threat actor groups.
+
+    - Assessments of the potential impact of cyber threats on business operations.
+
+    - Geopolitical factors influencing the cyber threat environment.
+
 - Tactical
 - Operational
 
