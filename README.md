@@ -20,6 +20,16 @@ This repository is organized into several key areas, each focusing on a differen
 
 *   **[MITRE Tactics](./Tactics):** This section provides useful techniques based on MITRE tactics
 
+## TODO
+
+### Chưa làm
+
+- [ ] Reflective Loading
+
+### Đã hoàn thành
+
+- [X] 
+
 ## Getting Started
 
 To get started, clone this repository to your local machine:
