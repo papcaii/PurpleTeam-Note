@@ -24,11 +24,11 @@ This repository is organized into several key areas, each focusing on a differen
 
 ### Chưa làm
 
-- [ ] Reflective Loading
-
-### Đã hoàn thành
-
-- [X] 
+- [ ] `Tactics/defense-evasion/Reflective-Loading`
+  - [ ] Viết tutorial về powershell Reflective Loading
+- [ ] `Tactics/privilege-escalation/Potato-Family`
+  - [ ] Nguyên lý của các potato, exploit vector và điểm lợi từng tools
+  - [ ] Mapping các potato hữu dụng thành bảng
 
 ## Getting Started
 
