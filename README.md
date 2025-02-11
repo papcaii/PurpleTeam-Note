@@ -6,19 +6,22 @@ I write this for knowledge I have learnt for purple team
 
 This repository is organized into several key areas, each focusing on a different aspect of Purple Team skills:
 
-*   **[Adversary Emulation](./Adversary):**  This section focuses on adversary emulation, including planning, execution, and analysis of simulated attacks. It covers frameworks like MITRE ATT&CK and tools like CALDERA.
+*   **[Adversary Emulation](./Adversary):**  Section này sẽ lưu trữ các cuộc tấn công (Adversary) của các Threat actor hoặc những real case mình gặp
 
-*   **[MITRE Tactics](./Tactics):** This section provides useful techniques based on MITRE tactics
+*   **[MITRE Tactics](./Tactics):** Section này sẽ lưu trữ các kỹ thuật Red Team, dựa trên các tactics MITRE ATT&CK
+*   **[Blue Team](./Blue)**: Blue one
+*   **[Threat Intelligence](./TI)**: Thu thập thông tin
 
 ## TODO
-
-### Chưa làm
 
 - [ ] `Tactics/defense-evasion/Reflective-Loading`
   - [ ] Viết tutorial về powershell Reflective Loading
 - [ ] `Tactics/privilege-escalation/Potato-Family`
   - [ ] Nguyên lý của các potato, exploit vector và điểm lợi từng tools
   - [ ] Mapping các potato hữu dụng thành bảng
+
+- [ ] `Blue/Log-Analysis`
+- [ ] `TI`
 
 ## Getting Started
 
